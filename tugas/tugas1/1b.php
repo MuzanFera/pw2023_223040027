@@ -20,22 +20,22 @@
 
     <p>
         Jika aku dikali 5, maka aku sekarang menjadi
-        <b> <?php print $npm * 5; ?> </b>
+        <b> <?php print $npm = $npm * 5; ?> </b>
     </p>
 
     <p>
         Jika aku dibagi 2, maka aku sekarang menjadi
-        <b> <?php print 135 / 2; ?> </b>
+        <b> <?php print $npm = $npm / 2; ?> </b>
     </p>
 
     <p>
         Jika aku ditambah 75, maka aku sekarang menjadi
-        <b> <?php print 67.5 + 75; ?> </b>
+        <b> <?php print $npm = $npm + 75; ?> </b>
     </p>
 
     <p>
         Jika aku dikurang 20, maka aku sekarang menjadi
-        <b> <?php print 142.5 - 20; ?> </b>
+        <b> <?php print $npm = $npm - 20; ?> </b>
     </p>
 
     
