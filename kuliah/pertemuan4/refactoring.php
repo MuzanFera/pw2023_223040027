@@ -17,9 +17,11 @@
 
     // fungsi hanya mengembalikan nilai $total, karna belum mencetaknya ke layar, jadi tetap harus menggunakan echo atau print
     print luas_dua_kubus(9,4); // menghasilkan 793
+    print "<br>";
 
     $hasil = Luas_dua_kubus(10, 2);
     print $hasil; // menghasilkan 1008
+    print "<br>";
 
     $x = 4;
     print Luas_dua_kubus($x*3, $x/2); // menghasilkan 1736

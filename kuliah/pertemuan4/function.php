@@ -15,6 +15,6 @@
     }
 
     // fungsi hanya mengembalikan nilai $total, karna belum mencetaknya ke layar, jadi tetap harus menggunakan echo atau print
-    print luas_dua_kubus(9,4);
+    print luas_dua_kubus(9,4); //menghasilkan 793
 
 ?>
