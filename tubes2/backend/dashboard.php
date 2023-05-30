@@ -82,6 +82,12 @@
                   <input type="file" class="form-control" id="profile-image-input">
                 </div>
                 <div class="mb-3 row">
+                  <label for="staticUsername" class="col-sm-2 col-form-label" style="color: black;">Username</label>
+                  <div class="col-sm-10">
+                    <input type="text" class="form-control" id="staticUsername" value="email@example.com">
+                  </div>
+                </div>
+                <div class="mb-3 row">
                   <label for="staticEmail" class="col-sm-2 col-form-label" style="color: black;">Email</label>
                   <div class="col-sm-10">
                     <input type="text" class="form-control" id="staticEmail" value="email@example.com">

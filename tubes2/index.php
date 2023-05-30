@@ -221,7 +221,7 @@
     <!-- footer -->
     <footer class="bg-dark p-2 text-center">
       <div class="container">
-        <p class="text-white">Pemerintah Bandung. 2023</p>
+        <p class="text-white">Pemerintah Bandung © 2023</p>
       </div>
     </footer>
 
