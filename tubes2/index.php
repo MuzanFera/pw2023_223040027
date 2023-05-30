@@ -32,7 +32,7 @@
                     <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#about-bandung">About</a>
+                    <a class="nav-link" href="#about-bandung">Bandung?</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#etalase">Etalase</a>
@@ -47,17 +47,34 @@
 
     <!-- jumbotron -->
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="img/jum-pic-1.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Pemerintah</h5>
+                  <p></p>
+                </div>
             </div>
 
             <div class="carousel-item">
                 <img src="img/jum-pic-2.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Bandung</h5>
+                  <p></p>
+                </div>
             </div>
 
             <div class="carousel-item">
                 <img src="img/jum-pic-3.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Jawa Barat</h5>
+                  <p></p>
+                </div>
             </div>
         </div>
     </div>
@@ -97,7 +114,7 @@
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-secondary" type="submit">Search</button>
         </form>
-        <div class="row">
+        <div class="row" style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px;">
           <div class="col-md-4 mb-3">
             <div class="card">
               <img src="img/asiaafrikabandung.jpg" class="card-img-top" alt="project1" />
@@ -108,6 +125,7 @@
               </div>
             </div>
           </div>
+
           <div class="col-md-4 mb-3">
             <div class="card">
               <img src="img/map-bandung.png" class="card-img-top" alt="project2" />
@@ -118,6 +136,18 @@
               </div>
             </div>
           </div>
+
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/jalan-braga.jpg" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Braga</h5>
+                <p class="card-text">Jalan Braga ini memiliki nuansa kolonial Belanda yang kental dan telah menjadi ikon kota Bandung. </p>
+                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
           <div class="col-md-4 mb-3">
             <div class="card">
               <img src="img/tugu-cibaduyut.jpg" class="card-img-top" alt="project3" />
@@ -128,6 +158,62 @@
               </div>
             </div>
           </div>
+
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/jalan-dago.jpg" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Kawasan Dago</h5>
+                <p class="card-text">Terletak di daerah dataran tinggi di sebelah utara kota Bandung, kawasan ini menawarkan pemandangan alam yang indah dan beragam aktivitas wisata.</p>
+                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/gedung-sate.png" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Gedung Sate</h5>
+                <p class="card-text">Gedung ini merupakan markas pemerintahan Provinsi Jawa Barat dan terletak di pusat kota Bandung, dekat dengan Gedung Merdeka dan Alun-Alun Bandung.</p>
+                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/gedung-merdeka.png" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Gedung Merdeka</h5>
+                <p class="card-text">Gedung ini memiliki nilai sejarah yang penting karena di sinilah perundingan antara pemerintah Indonesia dan pihak Belanda berlangsung pada tahun 1945 yang kemudian menghasilkan pengakuan kemerdekaan Indonesia.</p>
+                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/alunalun-bdg.png" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Alun-Alun Bandung</h5>
+                <p class="card-text">Alun-Alun ini terletak di sekitar Gedung Merdeka dan sejajar dengan Jalan Asia Afrika.</p>
+                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/museumgeologi.png" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Geologi</h5>
+                <p class="card-text">Museum yang menampilkan koleksi batu, fosil, dan artefak geologi yang menarik.</p>
+                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>
