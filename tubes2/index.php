@@ -91,8 +91,8 @@
                         <p class="card-text">"Bumi Pasundan lahir ketika Tuhan sedang tersenyum"</p>
                         <p class="card-text"><small class="text-body-secondary">M.A.W.Brouwer</small></p>
                     </div>
-                </div>
-                <img src="img/pidibaiq.jpg" class="card-img-top" alt="pidibaiq">
+                  </div>
+                  <img src="img/pidibaiq.jpg" class="card-img-top" alt="pidibaiq">
                     <div class="card-body text-center">
                         <p class="card-text">"Dan Bandung bagiku bukan cuma masalah geografis, lebih jauh dari itu melibatkan perasaan, yang bersamaku ketika sunyi"</p>
                         <p class="card-text"><small class="text-body-secondary">Pidi Baiq</small></p>
@@ -113,103 +113,181 @@
         <form class="d-flex" role="search" style="padding-bottom: 2em;">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-secondary" type="submit">Search</button>
-        </form>
-        <div class="row" style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px;">
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/asiaafrikabandung.jpg" class="card-img-top" alt="project1" />
+          </form>
+          <div class="row" style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px;">
+            
+            <div class="col-md-3 mb-3">
+              <div class="card">
+                <img src="img/alunalun-bdg.png" class="card-img-top" alt="project3" />
+                <div class="card-body">
+                  <h5 class="card-title">Alun-Alun Bandung</h5>
+                  <p class="card-text">Alun-Alun Bandung adalah pusat kota yang menjadi tempat bersejarah dengan monumen dan taman yang melambangkan perjalanan sejarah kota ini.</p>
+                  <a href="etalase/etalase.alunalunbandung.php" class="btn btn-primary">Lebih Lengkap</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+              <div class="card">
+                <img src="img/gd-de-driekleur.jpg" class="card-img-top" alt="project3" />
+                <div class="card-body">
+                  <h5 class="card-title">Gedung De Driekleur</h5>
+                  <p class="card-text">Bangunan ini adalah bekas markas Pemerintah Hindia Belanda di Bandung pada masa kolonial dan sekarang digunakan sebagai kantor Balaikota Bandung.</p>
+                  <a href="etalase/etalase.gddedriekleur.php" class="btn btn-primary">Lebih Lengkap</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+              <div class="card">
+                <img src="img/gd-krs.jpg" class="card-img-top" alt="project3" />
+                <div class="card-body">
+                  <h5 class="card-title">Gedung Kesenian Rumentang Siang</h5>
+                  <p class="card-text">Gedung ini adalah bekas tempat pertunjukan seni tradisional Sunda, seperti wayang golek dan tari Jaipong.</p>
+                  <a href="etalase/etalase.gdkrs.php" class="btn btn-primary">Lebih Lengkap</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+              <div class="card">
+                <img src="img/gedung-merdeka.png" class="card-img-top" alt="project3" />
+                <div class="card-body">
+                  <h5 class="card-title">Gedung Merdeka</h5>
+                  <p class="card-text">Gedung ini memiliki peran penting dalam sejarah Indonesia sebagai tempat berlangsungnya Konferensi Asia Afrika pada tahun 1955.</p>
+                  <a href="etalase/etalase.gdmerdeka.php" class="btn btn-primary">Lebih Lengkap</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+              <div class="card">
+              <img src="img/gedung-sate.jpg" class="card-img-top" alt="project1" />
               <div class="card-body">
-                <h5 class="card-title">Asia Afrika</h5>
-                <p class="card-text">Asia Afrika adalah sebuah jalan utama yang terletak di pusat Kota Bandung, Jawa Barat, Indonesia.</p>
-                <a href="etalase/etalase.asiaafrika.php" class="btn btn-primary">Lebih Lengkap</a>
+                <h5 class="card-title">Gedung Sate</h5>
+                <p class="card-text">Gedung ini adalah markas pemerintahan Provinsi Jawa Barat dan memiliki arsitektur yang unik dengan menara berbentuk tusuk sate.</p>
+                <a href="etalase/etalase.gdsate.php" class="btn btn-primary">Lebih Lengkap</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 mb-3">
+          <div class="col-md-3 mb-3">
             <div class="card">
-              <img src="img/map-bandung.png" class="card-img-top" alt="project2" />
+              <img src="img/jl-braga.jpg" class="card-img-top" alt="project3" />
               <div class="card-body">
-                <h5 class="card-title">Bandung</h5>
-                <p class="card-text">Bandung adalah ibu kota provinsi Jawa Barat, Indonesia, dan merupakan salah satu kota terbesar di Indonesia.</p>
-                <a href="etalase/etalase.bandung.php" class="btn btn-primary">Lebih Lengkap</a>
+                <h5 class="card-title">Jalan Braga</h5>
+                <p class="card-text">Jalan ini adalah jalan bersejarah yang menjadi pusat kehidupan sosial dan budaya pada masa kolonial Belanda. Di sini terdapat bangunan tua, kafe, restoran, dan toko-toko dengan nuansa retro.</p>
+                <a href="etalase/etalase.jlbraga.php" class="btn btn-primary">Lebih Lengkap</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 mb-3">
+          <div class="col-md-3 mb-3">
             <div class="card">
-              <img src="img/jalan-braga.jpg" class="card-img-top" alt="project3" />
+              <img src="img/masjid-raya-bandung.png" class="card-img-top" alt="project3" />
               <div class="card-body">
-                <h5 class="card-title">Braga</h5>
-                <p class="card-text">Jalan Braga ini memiliki nuansa kolonial Belanda yang kental dan telah menjadi ikon kota Bandung. </p>
-                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+                <h5 class="card-title">Masjid Agung Bandung</h5>
+                <p class="card-text">Masjid ini adalah salah satu masjid terbesar di Indonesia dan memiliki arsitektur yang mencerminkan perpaduan antara gaya tradisional dan modern.</p>
+                <a href="etalase/etalase.masjidrayabandung.php" class="btn btn-primary">Lebih Lengkap</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 mb-3">
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/masjid-agung-AU.jpg" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Masjid Al-Ukhuwwah Bandung</h5>
+                <p class="card-text">Masjid ini adalah salah satu masjid tertua di Bandung dan memiliki arsitektur bergaya kolonial Belanda. Masjid ini menjadi saksi perjalanan sejarah Islam di kota Bandung.</p>
+                <a href="etalase/etalase.masjidagungau.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/ms-geologi.png" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Geologi</h5>
+                <p class="card-text">Museum ini menampilkan koleksi batuan, fosil, dan mineral, serta memberikan informasi tentang sejarah geologi Bandung dan Indonesia.</p>
+                <a href="etalase/etalase.msgeologi.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/ms-sri-baduga.JPG" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Sri Baduga</h5>
+                <p class="card-text">Museum ini memperkenalkan sejarah dan budaya Sunda dengan koleksi artefak dan informasi tentang kerajaan-kerajaan Sunda dan kehidupan masyarakat Sunda.</p>
+                <a href="etalase/etalase.mssribaduga.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/mk-asia-afrika.jpg" class="card-img-top" alt="project2" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Konferensi Asia Afrika</h5>
+                <p class="card-text">Gedung Merdeka, tempat berlangsungnya Konferensi Asia Afrika pada tahun 1955, sekarang menjadi museum yang menampilkan koleksi dan dokumentasi terkait konferensi tersebut.</p>
+                <a href="etalase/etalase.mkasiaafrika.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/mprjw.jpg" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Perjuangan Rakyat Jawa Barat</h5>
+                <p class="card-text">Museum ini menampilkan artefak, foto, dan dokumentasi sejarah perjuangan rakyat Jawa Barat dalam meraih kemerdekaan.</p>
+                <a href="etalase/etalase.mprjw.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/ms-pos-ind.png" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Pos Indonesia</h5>
+                <p class="card-text">Gedung ini dulunya merupakan Kantor Pos Pusat Bandung yang berdiri sejak tahun 1920. Sekarang, gedung ini menjadi museum yang memamerkan koleksi perangko, peralatan pos, dan informasi sejarah layanan pos di Indonesia.</p>
+                <a href="etalase/etalase.msposind.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
+            <div class="card">
+              <img src="img/ms-barli-bandung.jpg" class="card-img-top" alt="project3" />
+              <div class="card-body">
+                <h5 class="card-title">Museum Barli</h5>
+                <p class="card-text">Museum ini didedikasikan untuk mengenang karya seniman terkenal Bandung, Barli Sasmitawinata. Museum ini menampilkan koleksi lukisan, patung, dan karya seni lainnya yang mencerminkan perkembangan seni rupa di Bandung.</p>
+                <a href="etalase/etalase.msbarli.php" class="btn btn-primary">Lebih Lengkap</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 mb-3">
             <div class="card">
               <img src="img/tugu-cibaduyut.jpg" class="card-img-top" alt="project3" />
               <div class="card-body">
-                <h5 class="card-title">Cibaduyut</h5>
-                <p class="card-text">Cibaduyut adalah sebuah wilayah yang terletak di Kota Bandung, Jawa Barat, Indonesia.</p>
-                <a href="etalase/etalase.cibaduyut.php" class="btn btn-primary">Lebih Lengkap</a>
+                <h5 class="card-title">Sepatu Cibaduyut</h5>
+                <p class="card-text">Industri sepatu di Cibaduyut, sebuah kawasan di Bandung, Jawa Barat, telah ada sejak akhir tahun 1920-an.</p>
+                <a href="etalase/etalase.cibay.php" class="btn btn-primary">Lebih Lengkap</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 mb-3">
+          <div class="col-md-3 mb-3">
             <div class="card">
-              <img src="img/jalan-dago.jpg" class="card-img-top" alt="project3" />
+              <img src="img/mblapi.jpg" class="card-img-top" alt="project3" />
               <div class="card-body">
-                <h5 class="card-title">Kawasan Dago</h5>
-                <p class="card-text">Terletak di daerah dataran tinggi di sebelah utara kota Bandung, kawasan ini menawarkan pemandangan alam yang indah dan beragam aktivitas wisata.</p>
-                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/gedung-sate.png" class="card-img-top" alt="project3" />
-              <div class="card-body">
-                <h5 class="card-title">Gedung Sate</h5>
-                <p class="card-text">Gedung ini merupakan markas pemerintahan Provinsi Jawa Barat dan terletak di pusat kota Bandung, dekat dengan Gedung Merdeka dan Alun-Alun Bandung.</p>
-                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/gedung-merdeka.png" class="card-img-top" alt="project3" />
-              <div class="card-body">
-                <h5 class="card-title">Gedung Merdeka</h5>
-                <p class="card-text">Gedung ini memiliki nilai sejarah yang penting karena di sinilah perundingan antara pemerintah Indonesia dan pihak Belanda berlangsung pada tahun 1945 yang kemudian menghasilkan pengakuan kemerdekaan Indonesia.</p>
-                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
-              </div>
-            </div>
-          </div>
-          
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/alunalun-bdg.png" class="card-img-top" alt="project3" />
-              <div class="card-body">
-                <h5 class="card-title">Alun-Alun Bandung</h5>
-                <p class="card-text">Alun-Alun ini terletak di sekitar Gedung Merdeka dan sejajar dengan Jalan Asia Afrika.</p>
-                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
-              </div>
-            </div>
-          </div>
-          
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <img src="img/museumgeologi.png" class="card-img-top" alt="project3" />
-              <div class="card-body">
-                <h5 class="card-title">Museum Geologi</h5>
-                <p class="card-text">Museum yang menampilkan koleksi batu, fosil, dan artefak geologi yang menarik.</p>
-                <a href="#" class="btn btn-primary">Lebih Lengkap</a>
+                <h5 class="card-title">Taman Sejarah Bandung Lautan Api</h5>
+                <p class="card-text">Taman ini didedikasikan untuk mengenang pertempuran sengit yang terjadi di Bandung pada masa Revolusi Nasional Indonesia. Di sini terdapat replika benteng-benteng pertahanan dan patung-patung pahlawan.</p>
+                <a href="etalase/etalase.mblapi.php" class="btn btn-primary">Lebih Lengkap</a>
               </div>
             </div>
           </div>
@@ -221,7 +299,7 @@
     <!-- footer -->
     <footer class="bg-dark p-2 text-center">
       <div class="container">
-        <p class="text-white">Pemerintah Bandung © 2023</p>
+        <p class="text-white" style="padding-top: 1em;">Pemerintah Bandung © 2023</p>
       </div>
     </footer>
 

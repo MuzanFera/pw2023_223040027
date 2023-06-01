@@ -56,11 +56,11 @@
               <div class="signin">
                 <span
                   >Tidak memiliki akun?
-                  <a href="register.php">Sign Up</a></span
+                  <a href="register.php">Register</a></span
                 >
               </div>
               <div class="signin">
-                <span> <a href="index.php">Masuk</a></span>
+                <span> <a href="page-tamu/tamu.php">Masuk Sebagai Tamu</a></span>
               </div>
             </div>
           </div>
