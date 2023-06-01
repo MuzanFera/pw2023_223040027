@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Masjid Agung Bandung</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/masjid-raya-bandung2.png" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Masjid Agung Bandung, yang juga dikenal sebagai Masjid Raya Bandung, adalah salah satu ikon arsitektur dan tempat beribadah yang terkenal di Kota Bandung, Jawa Barat. Masjid ini memiliki sejarah yang panjang dan berperan penting dalam perkembangan agama Islam di kota ini. Dibangun pada tahun 1812 oleh R.A. Wiranatakusumah II, masjid ini merupakan salah satu masjid tertua di Jawa Barat.</p>
+                        <p class="card-text">Sebagai salah satu masjid bersejarah, Masjid Agung Bandung memiliki peran sentral dalam menyebarkan agama Islam di daerah sekitarnya. Selama masa penjajahan Belanda, masjid ini menjadi pusat kegiatan keagamaan dan tempat berkumpulnya umat Islam. Masjid Agung Bandung juga menjadi saksi dari perjuangan umat Islam dalam menjaga identitas dan nilai-nilai agama mereka di tengah pengaruh budaya kolonial yang kuat.</p>
+                        <p class="card-text">Selama perjalanan sejarahnya, Masjid Agung Bandung mengalami beberapa kali renovasi dan pemugaran. Pada tahun 1970, masjid ini direnovasi dengan arsitektur yang lebih modern dan luas untuk memenuhi kebutuhan jamaah yang semakin bertambah. Renovasi tersebut menghasilkan arsitektur masjid yang megah dengan kombinasi elemen tradisional dan modern.</p>
+                        <p class="card-text">Hingga saat ini, Masjid Agung Bandung tetap menjadi tempat ibadah yang ramai dikunjungi oleh umat Islam. Masjid ini juga menjadi tujuan wisata religi bagi wisatawan yang ingin mengagumi keindahan arsitektur, mengenal lebih jauh tentang sejarah masjid, dan berpartisipasi dalam kegiatan keagamaan yang diselenggarakan di sini. Masjid Agung Bandung menjadi simbol penting bagi komunitas Muslim di Bandung serta mewakili pentingnya keberagaman agama dan toleransi dalam sejarah dan kehidupan kota ini.</p>
                     </div>
                   </div>
             </div>

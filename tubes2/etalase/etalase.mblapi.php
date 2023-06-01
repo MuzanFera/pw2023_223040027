@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Taman Sejarah Bandung Lautan Api</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/mblapi2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Taman Sejarah Bandung Lautan Api merupakan sebuah taman sejarah yang terletak di Kota Bandung, Jawa Barat. Taman ini didirikan untuk mengenang dan mengabadikan peristiwa bersejarah yang dikenal sebagai "Bandung Lautan Api". Peristiwa tersebut terjadi pada tanggal 24 Maret 1946, saat pasukan Indonesia yang dipimpin oleh Letnan Kolonel Suharto berhasil mempertahankan kota Bandung dari serangan pasukan Belanda yang berusaha merebut kembali kendali atas kota tersebut.</p>
+                        <p class="card-text">Sejarah Taman Sejarah Bandung Lautan Api dimulai pada tahun 2002, ketika taman ini dibangun sebagai bentuk penghormatan dan pengenangan terhadap peristiwa heroik Bandung Lautan Api. Taman ini dibangun di lokasi yang menjadi saksi perjuangan para pejuang Indonesia dalam melawan serangan pasukan Belanda. Tujuannya adalah untuk memperlihatkan kepada generasi muda dan masyarakat umum tentang nilai-nilai perjuangan dan semangat patriotisme yang ditunjukkan oleh para pejuang kemerdekaan.</p>
+                        <p class="card-text">Taman Sejarah Bandung Lautan Api memiliki berbagai elemen yang menggambarkan peristiwa bersejarah tersebut. Terdapat replika benteng pertahanan yang digunakan oleh pasukan Indonesia, patung-patung pahlawan, serta papan informasi yang menjelaskan kronologi peristiwa Bandung Lautan Api. Selain itu, taman ini juga memiliki area hijau yang digunakan sebagai tempat rekreasi dan kegiatan budaya, sehingga dapat menjadi tempat edukasi sekaligus ruang publik yang bermanfaat bagi masyarakat.</p>
+                        <p class="card-text">Taman Sejarah Bandung Lautan Api menjadi tempat yang penting untuk memperingati dan mempelajari sejarah perjuangan bangsa Indonesia. Melalui taman ini, masyarakat dapat menghargai pengorbanan para pejuang dalam mempertahankan kemerdekaan dan memperkuat semangat nasionalisme. Taman ini juga menjadi destinasi wisata sejarah yang menarik bagi wisatawan yang ingin mengetahui lebih dalam tentang peristiwa penting dalam sejarah Indonesia dan menghormati jasa-jasa pahlawan.</p>
                     </div>
                   </div>
             </div>

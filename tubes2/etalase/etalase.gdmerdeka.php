@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Gedung Merdeka</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,11 @@
             <div class="card">
                 <img src="../img/gedung-merdeka2.png" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Gedung Merdeka, atau juga dikenal sebagai Gedung Sociëteit Concordia, memiliki sejarah yang kaya dan erat kaitannya dengan perjuangan kemerdekaan Indonesia. Gedung ini terletak di Jalan Asia Afrika, Bandung, dan menjadi salah satu simbol penting dalam sejarah pergerakan nasional.</p>
+                        <p class="card-text">Gedung Merdeka dibangun pada tahun 1895 sebagai gedung pertemuan bagi kalangan elit Belanda di Kota Bandung. Namun, pada tahun 1955, gedung ini menjadi saksi dari peristiwa bersejarah Konferensi Asia-Afrika yang dihadiri oleh sejumlah negara-negara merdeka di Asia dan Afrika. Konferensi ini menjadi tonggak penting dalam upaya memperkuat solidaritas dan kerjasama antara negara-negara baru yang baru saja merdeka dari penjajahan.</p>
+                        <p class="card-text">Selama konferensi tersebut, Gedung Merdeka menjadi tempat berlangsungnya pertemuan-pertemuan tingkat tinggi, dialog diplomatik, dan diskusi tentang isu-isu penting yang mempengaruhi dunia pada saat itu. Deklarasi Lima Dasawarsa Asia-Afrika juga ditandatangani di gedung ini, yang menggarisbawahi pentingnya kerjasama antarbangsa dalam mencapai perdamaian dan kemajuan ekonomi serta sosial.</p>
+                        <p class="card-text">Setelah Konferensi Asia-Afrika, Gedung Merdeka terus digunakan untuk berbagai kegiatan sosial, politik, dan budaya. Pada tahun 1971, gedung ini diresmikan sebagai Museum Konferensi Asia-Afrika untuk memperingati sejarah konferensi tersebut. Saat ini, Gedung Merdeka masih berfungsi sebagai museum yang memamerkan berbagai artefak dan dokumentasi terkait Konferensi Asia-Afrika serta sejarah pergerakan kemerdekaan Indonesia.</p>
+                        <p class="card-text">Dengan kehadiran Gedung Merdeka, kita dapat mengenang dan menghargai perjuangan para pemimpin dan negara-negara peserta Konferensi Asia-Afrika dalam memperjuangkan kemerdekaan, perdamaian, dan kemajuan bagi bangsa-bangsa di Asia dan Afrika. Gedung ini menjadi simbol penting dalam perjalanan sejarah nasional dan menginspirasi semangat persatuan, kerjasama, dan perjuangan untuk kemerdekaan di seluruh dunia.</p>
                     </div>
                   </div>
             </div>

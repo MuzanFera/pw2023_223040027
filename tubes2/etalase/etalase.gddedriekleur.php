@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Gedung De Driekleur</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/gd-de-driekleur2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Gedung De Driekleur memiliki sejarah yang erat dengan perjuangan kemerdekaan Indonesia. Gedung ini dibangun pada tahun 1918 dan terletak di Jalan Asia Afrika, Bandung. Pada masa penjajahan Belanda, Gedung De Driekleur berfungsi sebagai pusat kegiatan politik dan markas organisasi pergerakan nasional.</p>
+                        <p class="card-text">Gedung De Driekleur menjadi tempat berkumpulnya para pemimpin pergerakan, seperti Bung Hatta dan Dr. Cipto Mangunkusumo, yang berjuang untuk kemerdekaan Indonesia. Di sini, mereka mendiskusikan strategi dan merencanakan aksi-aksi untuk melawan penjajah Belanda. Gedung ini juga menjadi pusat propaganda pergerakan nasional, tempat penyiaran radio, dan pengorganisasi perlawanan rakyat dalam mencapai kemerdekaan.</p>
+                        <p class="card-text">Selain menjadi pusat kegiatan politik, Gedung De Driekleur juga berperan sebagai tempat pelatihan dan pengorganisasian pemuda-pemuda Indonesia. Di sini, pemuda-pemuda belajar tentang nasionalisme, patriotisme, dan berbagai keahlian yang dibutuhkan dalam perjuangan. Gedung ini menjadi simbol semangat perjuangan pemuda dalam memerdekakan bangsa, dan banyak pemuda yang terinspirasi untuk ikut berjuang dan mewujudkan cita-cita nasional.</p>
+                        <p class="card-text">Pada saat ini, Gedung De Driekleur telah mengalami beberapa renovasi dan pemugaran untuk mempertahankan sejarahnya yang berharga. Gedung ini menjadi salah satu bangunan bersejarah yang dilindungi di Kota Bandung dan menjadi tujuan wisata sejarah yang penting. Dengan kehadiran Gedung De Driekleur, kita dapat mengingat dan menghargai perjuangan yang dilakukan oleh para pahlawan kemerdekaan Indonesia serta memahami peran penting gedung ini dalam perjalanan sejarah negara kita.</p>
                     </div>
                   </div>
             </div>

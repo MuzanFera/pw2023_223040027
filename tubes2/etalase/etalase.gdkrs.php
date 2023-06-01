@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Gedung Kesenian Rumentang</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,11 @@
             <div class="card">
                 <img src="../img/gd-krs2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Gedung Kesenian Rumentang Siang memiliki sejarah yang panjang dan berperan penting dalam pengembangan seni dan budaya di Bandung. Gedung ini didirikan pada tahun 1926 atas inisiatif Bupati Bandung, R. A. A. Wiranatakusumah IX, dengan tujuan mempromosikan dan melestarikan seni dan budaya Sunda.</p>
+                        <p class="card-text">Sejak awal berdirinya, Rumentang Siang menjadi pusat kegiatan seni tradisional Sunda. Gedung ini digunakan sebagai tempat pertunjukan wayang golek, tari Jaipong, musik tradisional, teater, dan berbagai acara seni lainnya. Rumentang Siang menjadi ajang bagi seniman dan penikmat seni untuk bertemu, berkolaborasi, dan mengembangkan ekspresi seni mereka.</p>
+                        <p class="card-text">Selama masa penjajahan Belanda, Rumentang Siang menjadi pentas bagi seni dan budaya Sunda yang kaya dan unik. Gedung ini memberikan kesempatan kepada seniman lokal untuk tampil di hadapan penonton yang lebih luas, memperkuat identitas budaya Sunda, dan melestarikan kearifan lokal.</p>
+                        <p class="card-text">Meskipun gedung ini mengalami masa vakum dan penurunan popularitas pada beberapa periode, upaya pemugaran dan restorasi dilakukan pada tahun 2011 untuk mengembalikan kejayaannya. Renovasi tersebut berfokus pada memperbaiki struktur dan menjaga karakteristik arsitektur asli gedung.</p>
+                        <p class="card-text">Hingga saat ini, Gedung Kesenian Rumentang Siang terus menjadi tempat penting dalam melestarikan warisan seni dan budaya Sunda serta menjadi pusat kegiatan seni yang vital di Bandung.</p>
                     </div>
                   </div>
             </div>

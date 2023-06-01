@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Museum Pos Indonesia</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/ms-pos-ind2.png" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Museum Pos Indonesia merupakan sebuah museum yang terletak di Kota Bandung, Jawa Barat, yang didedikasikan untuk memperkenalkan dan memperingati sejarah dan perkembangan layanan pos di Indonesia. Museum ini terletak di gedung yang dulunya merupakan kantor pos utama Bandung, yang telah mengalami renovasi dan dikelola sebagai museum sejak tahun 2009. Museum Pos Indonesia menjadi saksi perjalanan panjang dan perubahan dalam bidang komunikasi melalui layanan pos di Indonesia.</p>
+                        <p class="card-text">Sejarah Museum Pos Indonesia dimulai pada tahun 1933, ketika gedung kantor pos utama Bandung didirikan. Gedung ini dirancang oleh arsitek terkenal, Henri Maclaine Pont, dengan gaya arsitektur Hindia Belanda yang khas. Gedung tersebut awalnya berfungsi sebagai pusat operasional layanan pos di Bandung, dan menjadi pusat pengiriman surat dan paket, telegraf, dan layanan pos lainnya. Namun, seiring berjalannya waktu dan kemajuan teknologi komunikasi, peran kantor pos ini berubah dan akhirnya dialihfungsikan menjadi museum pada tahun 2009.</p>
+                        <p class="card-text">Museum Pos Indonesia memamerkan koleksi-koleksi yang berhubungan dengan sejarah layanan pos di Indonesia. Pengunjung dapat melihat berbagai artefak, perangko, peralatan pos kuno, dokumen-dokumen bersejarah, dan benda-benda terkait lainnya. Museum ini juga memiliki ruang pameran interaktif yang memungkinkan pengunjung untuk mempelajari lebih dalam tentang perkembangan teknologi komunikasi dan layanan pos di Indonesia, termasuk pengenalan perangko dan proses pengiriman surat.</p>
+                        <p class="card-text">Museum Pos Indonesia tidak hanya menjadi tempat untuk mempelajari sejarah dan perkembangan layanan pos, tetapi juga memberikan wawasan tentang bagaimana teknologi komunikasi telah berkembang dan berubah seiring waktu. Museum ini menjadi destinasi yang menarik bagi pecinta sejarah, kolektor perangko, dan para pengunjung yang ingin mengetahui peran penting layanan pos dalam memfasilitasi komunikasi di masa lalu dan masa kini.</p>
                     </div>
                   </div>
             </div>

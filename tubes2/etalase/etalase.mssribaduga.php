@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Museum Sri Baduga</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/ms-sri-baduga2.JPG" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Museum Sri Baduga adalah sebuah museum sejarah yang terletak di Kota Bandung, Jawa Barat. Museum ini didedikasikan untuk menggali dan memamerkan sejarah dan budaya Sunda, khususnya mengenai kerajaan-kerajaan yang pernah berkuasa di daerah Jawa Barat. Museum Sri Baduga dinamai sesuai dengan nama raja yang paling terkenal dari Kerajaan Pajajaran, yaitu Sri Baduga Maharaja.</p>
+                        <p class="card-text">Museum Sri Baduga didirikan pada tanggal 24 November 1974 dan berlokasi di Jalan Diponegoro, Bandung. Tujuan utama pembangunan museum ini adalah untuk melestarikan dan mengenalkan warisan sejarah dan budaya Sunda kepada generasi muda serta masyarakat umum. Museum ini memiliki koleksi beragam artefak, benda-benda sejarah, arca, pakaian tradisional, senjata, dan berbagai benda bersejarah lainnya yang terkait dengan kerajaan-kerajaan di Jawa Barat.</p>
+                        <p class="card-text">Seiring berjalannya waktu, Museum Sri Baduga mengalami pengembangan dan peningkatan fasilitas. Ruang pameran diperluas dan lebih banyak koleksi ditambahkan untuk memberikan gambaran yang lebih lengkap tentang kehidupan dan kebudayaan Sunda. Museum ini juga menjadi tempat penyelenggaraan berbagai kegiatan seperti seminar, lokakarya, pertunjukan seni, dan festival budaya yang bertujuan untuk mempromosikan dan memperkaya pemahaman tentang sejarah dan kebudayaan Sunda.</p>
+                        <p class="card-text">Museum Sri Baduga menjadi salah satu destinasi wisata budaya yang populer di Bandung. Pengunjung dapat melihat dan belajar tentang peradaban kuno, sistem pemerintahan, seni dan kerajinan, serta berbagai aspek budaya yang kaya dari masyarakat Sunda. Museum ini juga menjadi sumber pengetahuan yang berharga bagi para peneliti, sejarawan, dan akademisi yang tertarik dengan sejarah dan budaya Jawa Barat.</p>
                     </div>
                   </div>
             </div>

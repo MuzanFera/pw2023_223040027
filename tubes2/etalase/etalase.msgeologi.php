@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Museum Geologi</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/ms-geologi2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Museum Geologi merupakan sebuah museum yang terletak di Bandung, Jawa Barat, yang didedikasikan untuk memamerkan dan melestarikan kekayaan geologi Indonesia. Museum ini memiliki sejarah yang panjang dan berperan penting dalam pengembangan studi geologi serta pemahaman tentang keberagaman geologi Indonesia. Museum Geologi didirikan pada tahun 1928 oleh Pemerintah Hindia Belanda sebagai Balai Geologi.</p>
+                        <p class="card-text">Sejak awal berdirinya, Museum Geologi telah mengumpulkan dan memamerkan koleksi yang luas dan beragam dari berbagai penjuru Indonesia. Koleksi tersebut mencakup berbagai fosil, mineral, batuan, dan artefak geologi lainnya yang mencerminkan keragaman geologi dan kekayaan alam Indonesia. Museum Geologi juga mengadakan penelitian dan eksplorasi geologi serta berperan dalam mengumpulkan data dan informasi geologi yang penting bagi perkembangan ilmu pengetahuan.</p>
+                        <p class="card-text">Selain sebagai tempat pameran, Museum Geologi juga berfungsi sebagai pusat pendidikan dan penelitian dalam bidang geologi. Museum ini menyelenggarakan berbagai kegiatan edukatif, seperti seminar, lokakarya, dan kunjungan lapangan, untuk memperluas pengetahuan dan pemahaman tentang geologi. Para pengunjung, termasuk siswa, mahasiswa, dan peneliti, dapat belajar tentang aspek geologi seperti sejarah bumi, pergerakan lempeng tektonik, letusan gunung berapi, dan formasi batuan.</p>
+                        <p class="card-text">Dalam perjalanannya, Museum Geologi terus berkembang dengan menambah koleksi dan fasilitas yang lebih modern. Tujuan utamanya adalah untuk terus menginspirasi dan memperkaya pengetahuan tentang geologi, serta memberikan pemahaman yang lebih baik tentang keberagaman geologi Indonesia. Museum Geologi menjadi tempat penting bagi pengunjung yang ingin memahami aspek penting geologi Indonesia, melihat fosil langka, dan mempelajari sejarah dan kekayaan geologi yang ada di tanah air.</p>
                     </div>
                   </div>
             </div>

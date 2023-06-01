@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Masjid Al-Ukhuwwah Bandung</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/masjid-agung-AU2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Masjid Al-Ukuwwah Bandung, juga dikenal sebagai Masjid Al-Ukhuwwah, adalah salah satu masjid yang terletak di kota Bandung, Jawa Barat. Masjid ini memiliki sejarah yang berhubungan erat dengan perjuangan dan kegiatan keagamaan umat Islam di daerah ini. Dibangun pada tahun 1995, Masjid Al-Ukuwwah didirikan sebagai simbol persatuan dan persaudaraan umat Islam di Bandung.</p>
+                        <p class="card-text">Sejarah Masjid Al-Ukuwwah dimulai ketika sebuah lembaga bernama Lembaga Dakwah Islam Indonesia (LDII) mendapatkan tanah di Jalan Jenderal Sudirman, Bandung, untuk membangun masjid. Dalam proses pembangunannya, masyarakat Muslim setempat berpartisipasi dengan memberikan sumbangan dan tenaga untuk membangun masjid ini. Hal ini mencerminkan semangat kebersamaan dan kerja sama umat Muslim dalam mendirikan tempat ibadah yang menjadi sarana dakwah dan kegiatan keagamaan.</p>
+                        <p class="card-text">Masjid Al-Ukuwwah menjadi tempat ibadah yang penting bagi komunitas Muslim di sekitar Bandung. Selain berfungsi sebagai tempat salat, masjid ini juga menjadi pusat kegiatan keagamaan dan sosial bagi masyarakat setempat. Di masjid ini sering diadakan pengajian, kajian keislaman, dan berbagai kegiatan sosial yang bertujuan untuk memperkuat tali persaudaraan dan meningkatkan pemahaman agama.</p>
+                        <p class="card-text">Masjid Al-Ukuwwah juga melibatkan diri dalam kegiatan sosial dan kemanusiaan. Melalui berbagai program seperti pemberian santunan kepada fakir miskin, bantuan pendidikan, dan bantuan sosial lainnya, masjid ini berperan dalam memperbaiki kesejahteraan masyarakat sekitar. Dengan demikian, Masjid Al-Ukuwwah menjadi pusat kegiatan keagamaan dan sosial yang berperan dalam memperkuat kehidupan umat Muslim serta masyarakat di Bandung.</p>
                     </div>
                   </div>
             </div>

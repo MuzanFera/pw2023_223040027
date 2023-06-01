@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Alun Alun Bandung</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,9 @@
             <div class="card">
                 <img src="../img/alunalun-bdg2.png" class="card-img-top" alt="mawbrouwe">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Alun-Alun Bandung memiliki sejarah yang kaya dan panjang sebagai pusat kegiatan sosial dan politik di Kota Bandung, Jawa Barat, Indonesia. Awalnya, alun-alun ini dibangun pada era kolonial Belanda sebagai pusat pertemuan dan pasar tradisional. Namun, seiring berjalannya waktu, Alun-Alun Bandung telah menjadi saksi dari berbagai peristiwa sejarah yang penting.</p>
+                        <p class="card-text">Selama masa penjajahan Belanda, Alun-Alun Bandung menjadi tempat penting dalam pergerakan nasional. Banyak pertemuan politik dan kegiatan publik digelar di sini, termasuk pidato-pidato yang membangkitkan semangat perlawanan terhadap penjajahan. Alun-Alun Bandung juga menjadi tempat perayaan kemerdekaan Indonesia pada tanggal 17 Agustus 1945, ketika Proklamasi Kemerdekaan dibacakan untuk pertama kalinya.</p>
+                        <p class="card-text">Selain itu, Alun-Alun Bandung juga menjadi pusat kegiatan budaya dan rekreasi. Tempat ini sering digunakan untuk acara seni dan budaya, seperti konser musik, pameran seni, dan festival budaya. Alun-Alun Bandung menjadi tempat bersantai bagi penduduk setempat dan juga menjadi daya tarik bagi wisatawan yang ingin menikmati suasana kota dan melihat berbagai monumen dan landmark yang ada di sekitarnya.</p>
                     </div>
                   </div>
             </div>

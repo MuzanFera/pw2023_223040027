@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Museum Perjuangan Rakyat Jawa Barat</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/mprjw2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Museum Perjuangan Rakyat Jawa Barat, juga dikenal sebagai Museum Asia Afrika, merupakan sebuah museum yang terletak di Kota Bandung, Jawa Barat. Museum ini didirikan untuk menghormati dan memperingati perjuangan rakyat Jawa Barat dalam memperoleh kemerdekaan dan mempertahankan nilai-nilai perjuangan yang ada di daerah tersebut. Museum ini memiliki peran penting dalam mempromosikan pemahaman dan apresiasi terhadap perjuangan sejarah Jawa Barat.</p>
+                        <p class="card-text">Museum Perjuangan Rakyat Jawa Barat dibuka pada tanggal 14 Maret 1974 oleh Gubernur Jawa Barat saat itu, yaitu Aang Kunaefi. Didalamnya, terdapat koleksi beragam artefak, foto, dokumentasi, dan benda-benda bersejarah yang terkait dengan perjuangan rakyat Jawa Barat selama masa kolonial Belanda dan masa perjuangan kemerdekaan. Museum ini juga memamerkan berbagai informasi mengenai tokoh-tokoh pahlawan dan peristiwa-peristiwa penting dalam sejarah perjuangan Jawa Barat.</p>
+                        <p class="card-text">Selain sebagai tempat pameran, Museum Perjuangan Rakyat Jawa Barat juga memiliki fungsi sebagai pusat pendidikan sejarah. Museum ini menyelenggarakan berbagai kegiatan edukatif, seperti ceramah, seminar, dan lokakarya, yang bertujuan untuk meningkatkan pemahaman dan pengetahuan masyarakat tentang perjuangan rakyat Jawa Barat. Museum ini juga sering menjadi tempat kunjungan wisata sekolah dan studi lapangan bagi siswa dan mahasiswa.</p>
+                        <p class="card-text">Museum Perjuangan Rakyat Jawa Barat menjadi destinasi wisata sejarah yang populer di Bandung. Pengunjung dapat melihat dan mempelajari lebih dalam mengenai perjuangan rakyat Jawa Barat melalui koleksi-koleksi yang dipamerkan. Museum ini juga menjadi tempat yang menginspirasi dan memperkuat semangat nasionalisme serta menghormati jasa-jasa para pahlawan dalam memperjuangkan kemerdekaan.</p>
                     </div>
                   </div>
             </div>

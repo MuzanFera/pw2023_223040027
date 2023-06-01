@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Bandung | Asia Afrika</title>
+    <title>Bandung | Gedung Sate</title>
   </head>
   <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button
@@ -59,10 +59,10 @@
             <div class="card">
                 <img src="../img/gedung-sate2.jpg" class="card-img-top" alt="">
                     <div class="card-body text-center">
-                        <p class="card-text">Alun-Alun Bandung telah menjadi pusat kehidupan sosial dan budaya masyarakat Bandung sejak masa kolonial Belanda. Pada awalnya, alun-alun ini merupakan lapangan terbuka yang digunakan sebagai tempat pertemuan dan perayaan. Namun, saat itu alun-alun masih terbagi menjadi Alun-Alun Utara dan Alun-Alun Selatan. Alun-Alun Utara menjadi tempat berkumpulnya orang-orang dari kalangan bangsawan dan pemerintah, sedangkan Alun-Alun Selatan diperuntukkan bagi masyarakat umum.</p>
-                        <p class="card-text">Selama perjalanan sejarahnya, Alun-Alun Bandung mengalami perkembangan dan perubahan. Pada tahun 1910, Alun-Alun Bandung Utara dipindahkan ke lokasi yang sekarang, dan pembangunan patung-patung pahlawan nasional Indonesia, yaitu Diponegoro dan Kartini, dilakukan pada tahun 1950 sebagai penghormatan terhadap perjuangan mereka.</p>
-                        <p class="card-text">Alun-Alun Bandung juga menjadi tempat penting dalam berbagai peristiwa sejarah, seperti perayaan Hari Kemerdekaan Indonesia dan acara-acara besar lainnya. Tempat ini menjadi titik pertemuan dan identitas kota Bandung, serta menjadi saksi perjalanan sejarah dan perubahan sosial masyarakat setempat.</p>
-                        <a href="#" class="btn btn-primary">Lokasi</a>
+                        <p class="card-text">Gedung Sate adalah salah satu ikon arsitektur yang terkenal di Kota Bandung, Jawa Barat. Gedung ini memiliki sejarah yang panjang dan kaya, serta berperan penting dalam perkembangan Kota Bandung. Dibangun pada tahun 1920, Gedung Sate awalnya berfungsi sebagai markas pemerintahan Hindia Belanda di Jawa Barat.</p>
+                        <p class="card-text">Nama "Gedung Sate" berasal dari tampilan unik atap gedung yang menyerupai tusuk sate. Atap ini dirancang oleh arsitek Belanda, J. Gerber, dan menjadi ciri khas yang ikonik bagi gedung ini. Selain arsitektur yang menarik, Gedung Sate juga memiliki nilai sejarah yang signifikan. Selama masa penjajahan, gedung ini digunakan sebagai kantor administrasi pemerintah Hindia Belanda, termasuk sebagai markas Departemen Pekerjaan Umum.</p>
+                        <p class="card-text">Setelah kemerdekaan Indonesia, Gedung Sate tetap menjadi markas pemerintahan, namun kali ini digunakan oleh pemerintah Provinsi Jawa Barat. Seiring berjalannya waktu, gedung ini mengalami beberapa perubahan dan renovasi untuk memenuhi kebutuhan administrasi modern. Meskipun demikian, tetap mempertahankan ciri khas arsitektur dan keunikan atapnya.</p>
+                        <p class="card-text">Hingga saat ini, Gedung Sate menjadi simbol penting dari kebanggaan sejarah dan budaya Kota Bandung. Selain menjadi pusat pemerintahan, gedung ini juga menjadi objek wisata yang populer. Banyak pengunjung datang untuk melihat keindahan arsitekturnya, mengenal lebih jauh tentang sejarahnya, dan menikmati keindahan taman yang mengelilingi gedung. Gedung Sate juga sering digunakan sebagai lokasi acara-acara penting, seperti konferensi, pertemuan, dan pameran seni, yang memberikan nilai tambah bagi gedung ini sebagai pusat kegiatan sosial dan budaya di Kota Bandung.</p>
                     </div>
                   </div>
             </div>
