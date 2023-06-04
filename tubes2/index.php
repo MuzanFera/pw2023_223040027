@@ -38,7 +38,7 @@
                     <a class="nav-link" href="#etalase">Etalase</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="backend/dashboard.php">Dashboard</a>
+                    <a class="nav-link" href="dashboard.php">Dashboard</a>
                 </li>
             </ul>
         </div>
@@ -92,7 +92,7 @@
                         <p class="card-text"><small class="text-body-secondary">M.A.W.Brouwer</small></p>
                     </div>
                   </div>
-                  <img src="img/pidibaiq.jpg" class="card-img-top" alt="pidibaiq">
+                <img src="img/pidibaiq.jpg" class="card-img-top" alt="pidibaiq">
                     <div class="card-body text-center">
                         <p class="card-text">"Dan Bandung bagiku bukan cuma masalah geografis, lebih jauh dari itu melibatkan perasaan, yang bersamaku ketika sunyi"</p>
                         <p class="card-text"><small class="text-body-secondary">Pidi Baiq</small></p>

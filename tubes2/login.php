@@ -60,7 +60,7 @@
                 >
               </div>
               <div class="signin">
-                <span> <a href="page-tamu/tamu.php">Masuk Sebagai Tamu</a></span>
+                <span> <a href="page-user/indexuser.php">Masuk Sebagai User</a></span>
               </div>
             </div>
           </div>
