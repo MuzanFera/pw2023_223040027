@@ -12,7 +12,7 @@
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="../index.php">
+        <a class="navbar-brand" href="#">
           <img src="../img/nav-logo.png" alt="" style="height: 40px" />
         </a>
         <button

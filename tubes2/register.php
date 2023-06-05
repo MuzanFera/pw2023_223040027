@@ -1,3 +1,35 @@
+<?php 
+require 'function.php';
+if(!empty($_SESSION["id"])) {
+  header("location: admin/index.admin.php");
+}
+if(isset($_POST["submit"])) {
+  $username = $_POST["username"];
+  $email = $_POST["email"];
+  $password = $_POST["password"];
+  $confirmpassword = $_POST["confirmpassword"];
+  $duplicate = mysqli_query($conn, "SELECT * FROM tb_logreg WHERE username = '$username' OR email = '$email'");
+  if(mysqli_num_rows($duplicate) > 0) {
+    echo "<script> alert('Username atau Email Sudah Digunakan'); </script>";
+  }
+
+  else {
+    if($password == $confirmpassword) {
+      $query = "INSERT INTO tb_logreg (username, email, password)
+      VALUES('$username','$email','$password')";
+      mysqli_query($conn,$query);
+      echo "<script> alert('Registrasi Berhasil!'); </script>";
+    }
+
+    else {
+      echo "<script> alert('Password Tidak Sama!'); </script>";
+    }
+  }
+}
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,44 +62,56 @@
           <div class="col-md-6 right">
             <div class="input-box">
               <header>Create account</header>
-              <div class="input-field">
-                <input
-                  type="text"
-                  class="input"
-                  id="username"
-                  autocomplete="off"
-                  required
-                />
-                <label for="email">Username</label>
-              </div>
-              <div class="input-field">
-                <input
-                  type="text"
-                  class="input"
-                  id="email"
-                  autocomplete="off"
-                  required
-                />
-                <label for="email">Email</label>
-              </div>
-              <div class="input-field">
-                <input
-                  type="password"
-                  class="input"
-                  id="password"
-                  autocomplete="off"
-                  required
-                />
-                <label for="password">Password</label>
-              </div>
-              <div class="input-field">
-                <input type="submit" class="submit" value="Sign Up" />
-              </div>
+              <form action="" method="post" autocomplete="off">
+                <div class="input-field">
+                  <input
+                    type="text"
+                    class="input"
+                    name="username"
+                    id="username"
+                    autocomplete="off"
+                    required value="" />
+                  <label for="email">Username</label>
+                </div>
+                <div class="input-field">
+                  <input
+                    type="text"
+                    class="input"
+                    name="email"
+                    id="email"
+                    autocomplete="off"
+                    required value="" />
+                  <label for="email">Email</label>
+                </div>
+                <div class="input-field">
+                  <input
+                    type="password"
+                    class="input"
+                    name="password"
+                    id="password"
+                    autocomplete="off"
+                    required value="" />
+                  <label for="password">Password</label>
+                </div>
+                <div class="input-field">
+                  <input
+                    type="password"
+                    class="input"
+                    name="confirmpassword"
+                    id="confirmpassword"
+                    autocomplete="off"
+                    required value="" />
+                  <label for="password">Confirm Password</label>
+                </div>
+                <div class="input-field">
+                  <input type="submit" class="submit" name="submit" value="Register" />
+                </div>
+              </form>
               <div class="signin">
                 <span>Sudah memiliki akun? <a href="login.php">Login</a></span>
               </div>
               <div class="signin">
-                <span><a href="page-user/indexuser.php">Masuk Sebagai User</a></span>
+                <span><a href="index.php">Masuk Sebagai User</a></span>
               </div>
             </div>
           </div>

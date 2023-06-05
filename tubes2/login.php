@@ -1,3 +1,33 @@
+<?php 
+require 'function.php';
+if(!empty($_SESSION["id"])) {
+  header("location: admin/index.admin.php");
+}
+if(isset($_POST["submit"])) {
+  $usernameemail = $_POST["usernameemail"];
+  $password = $_POST["password"];
+  $result = mysqli_query($conn, "SELECT * FROM tb_logreg WHERE username = '$usernameemail' OR email = '$usernameemail'");
+  $row = mysqli_fetch_assoc($result);
+  if(mysqli_num_rows($result) > 0) {
+    if($password == $row["password"]) {
+      $_SESSION["login"] = true;
+      $_SESSION["id"] = $row["id"];
+      header("Location: admin/index.admin.php");
+    }
+
+    else {
+        echo "<script> alert('Password Salah!'); </script>";
+    }
+  }
+
+  else {
+    echo "<script> alert('Akun Tidak Ter-Registrasi!'); </script>";
+  }
+}
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,29 +60,31 @@
           <div class="col-md-6 right">
             <div class="input-box">
               <header>Login</header>
-              <div class="input-field">
-                <input
-                  type="text"
-                  class="input"
-                  id="email"
-                  autocomplete="off"
-                  required
-                />
-                <label for="email">Email</label>
-              </div>
-              <div class="input-field">
-                <input
-                  type="password"
-                  class="input"
-                  id="password"
-                  autocomplete="off"
-                  required
-                />
-                <label for="password">Password</label>
-              </div>
-              <div class="input-field">
-                <input type="submit" class="submit" value="Sign In" />
-              </div>
+              <form action="" method="post" autocomplete="off">
+                <div class="input-field">
+                  <input
+                    type="text"
+                    class="input"
+                    name="usernameemail"
+                    id="usernameemail"
+                    autocomplete="off"
+                    required value="" />
+                  <label for="usernameemail">Username/email</label>
+                </div>
+                <div class="input-field">
+                  <input
+                    type="password"
+                    class="input"
+                    name="password"
+                    id="password"
+                    autocomplete="off"
+                    required value="" />
+                  <label for="password">Password</label>
+                </div>
+                <div class="input-field">
+                  <input type="submit" class="submit" name="submit" value="Register" />
+                </div>
+              </form>
               <div class="signin">
                 <span
                   >Tidak memiliki akun?
@@ -60,7 +92,7 @@
                 >
               </div>
               <div class="signin">
-                <span> <a href="page-user/indexuser.php">Masuk Sebagai User</a></span>
+                <span> <a href="index.php">Masuk Sebagai User</a></span>
               </div>
             </div>
           </div>

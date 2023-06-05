@@ -1,3 +1,17 @@
+<?php 
+require '../function.php';
+if(!empty($_SESSION["id"])) {
+  $id = $_SESSION["id"];
+  $result = mysqli_query($conn, "SELECT * FROM tb_logreg WHERE id = $id");
+  $row = mysqli_fetch_assoc($result);
+}
+
+else {
+  header("Location: ../login.php");
+}
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -29,7 +43,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="../index.php">Home</a>
+                    <a class="nav-link" href="index.admin.php">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#profile">Profile</a>
@@ -38,7 +52,7 @@
                     <a class="nav-link" href="#edit-profile">Edit Profile</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../login.php">Log Out</a>
+                    <a class="nav-link" href="../logout.php">Log Out</a>
                 </li>
             </ul>
         </div>
@@ -56,9 +70,9 @@
             <div class="card">
               <div class="card-body">
                 <img src="../img/default.png" alt="">
-                <h5 class="card-title" style="padding-top: 1em;">Muhammad Fauzan Febrian Nugraha</h5>
-                <p class="card-text">User/Admin</p>
-                <p class="card-text">fauzan.223040027@mail.unpas.ac.id</p>
+                <p class="card-text">Admin</p>
+                <h5 class="card-title"><b><?php echo $row["username"]; ?></b></h5>
+                <p class="card-text"><?php echo $row["email"]; ?></p>
               </div>
             </div>
           </div>
