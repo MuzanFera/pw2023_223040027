@@ -15,8 +15,8 @@ if(isset($_POST["submit"])) {
 
   else {
     if($password == $confirmpassword) {
-      $query = "INSERT INTO tb_logreg (username, email, password)
-      VALUES('$username','$email','$password')";
+      $query = "INSERT INTO tb_logreg (username, email, password, gambar)
+      VALUES('$username','$email','$password','gambar')";
       mysqli_query($conn,$query);
       echo "<script> alert('Registrasi Berhasil!'); </script>";
     }

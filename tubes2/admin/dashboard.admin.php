@@ -69,7 +69,7 @@ else {
           <div class="col-md-4 text-center">
             <div class="card">
               <div class="card-body">
-                <img src="../img/default.png" alt="">
+                <img src="../img/<?php echo $row["gambar"] ?>" alt="" style="width: 100%;">
                 <p class="card-text">Admin</p>
                 <h5 class="card-title"><b><?php echo $row["username"]; ?></b></h5>
                 <p class="card-text"><?php echo $row["email"]; ?></p>
@@ -87,59 +87,21 @@ else {
         <div class="col text-center" style="padding-top: 6em; text-decoration: underline;">
           <h2><b>Edit Profile</b></h2>
         </div>
-        <div class="row justify-content-center" style="padding-top: 2em; padding-bottom: 8em;">
-          <div class="col-md-6 text-center">
-            <div class="card">
-              <div class="card-body">
-                <img src="../img/default.png" alt="" style="padding-bottom: 2em;">
-                <div class="card-body">
-                  <input type="file" class="form-control" id="profile-image-input">
-                </div>
-                <div class="mb-3 row">
-                  <label for="staticUsername" class="col-sm-2 col-form-label" style="color: black;">Username</label>
-                  <div class="col-sm-10">
-                    <input type="text" class="form-control" id="staticUsername" value="email@example.com">
-                  </div>
-                </div>
-                <div class="mb-3 row">
-                  <label for="staticEmail" class="col-sm-2 col-form-label" style="color: black;">Email</label>
-                  <div class="col-sm-10">
-                    <input type="text" class="form-control" id="staticEmail" value="email@example.com">
-                  </div>
-                </div>
-                <div class="mb-3 row">
-                  <label for="inputPassword" class="col-sm-2 col-form-label" style="color: black;">Password</label>
-                  <div class="col-sm-10">
-                    <input type="password" class="form-control" id="inputPassword">
-                  </div>
-                </div>
-                <a href="etalase/etalase.bandung.php" class="btn btn-secondary">Update</a>
-              </div>
-            </div>
-          </div>
-        </div>
+        <?php
+
+        $admin = query("SELECT * FROM tb_logreg");
+        
+        require('../views/dashboard.view.php');
+        
+        ?>
+
       </div>
     </section>
-
-    <!-- <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <div class="card">
-            <img src="default-profile.jpg" class="card-img-top" alt="Default Profile">
-            <div class="card-body">
-              <h5 class="card-title">Foto Profil</h5>
-              <input type="file" class="form-control" id="profile-image-input">
-              <button class="btn btn-primary mt-2" id="update-profile-btn">Update Foto</button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
 
     <!-- footer -->
     <footer class="bg-dark p-2 text-center">
       <div class="container">
-        <p class="text-white">Pemerintah Bandung. 2023</p>
+        <p class="text-white" style="padding-top: 1em;">Pemerintah Bandung. 2023</p>
       </div>
     </footer>
 
