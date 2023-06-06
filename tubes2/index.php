@@ -110,10 +110,7 @@
             <h2><b>Etalase</b></h2>
           </div>
         </div>
-        <form class="d-flex" role="search" style="padding-bottom: 2em;">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-secondary" type="submit">Search</button>
-          </form>
+
           <div class="row" style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px;">
             
             <div class="col-md-3 mb-3">

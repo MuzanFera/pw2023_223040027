@@ -71,4 +71,16 @@ function ubah($data) {
   
     return mysqli_affected_rows($conn);
 }
+
+// func cari
+function cari($keyword) {
+    $query = "SELECT * FROM tb_logreg
+                WHERE
+                username LIKE '%$keyword%' OR
+                email LIKE '%$keyword%'
+                ";
+    return query($query);
+}
+
+
 ?>

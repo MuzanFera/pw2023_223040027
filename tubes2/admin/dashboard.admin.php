@@ -82,20 +82,31 @@ else {
     
 
     <!-- edit profile -->
-    <section id="edit-profile">
+    <section id="edit-profile" style="padding-bottom: 5em">
       <div class="container">
-        <div class="col text-center" style="padding-top: 6em; text-decoration: underline;">
+        <div class="col text-center" style="padding-top: 10em; text-decoration: underline;">
           <h2><b>Edit Profile</b></h2>
         </div>
-        <?php
 
-        $admin = query("SELECT * FROM tb_logreg");
-        
-        require('../views/dashboard.view.php');
-        
-        ?>
+        <form class="d-flex" role="search" style="padding-top: 2em;" action="" method="post">
+          <input class="form-control me-2" type="text" name="keyword" placeholder="Masukan Keyword Pencarian.." autocomplete="">
+          <button class="btn btn-outline-secondary" type="submit" name="cari">Cari</button>
+        </form>
 
-      </div>
+          <?php
+
+          $admin = query("SELECT * FROM tb_logreg");
+
+          // tombol cari ditekan
+          if( isset($_POST["cari"]) ) {
+            $admin = cari($_POST["keyword"]);
+          }
+          
+          require('../views/dashboard.view.php');
+          
+          ?>
+
+        </div>
     </section>
 
     <!-- footer -->
